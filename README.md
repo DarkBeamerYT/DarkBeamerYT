@@ -10,3 +10,7 @@ I am a person who basically, doesn't code. I usually do content (editing) on my 
 - <a href="https://twitter.com/DarkBeamerYT">Twitter</a>
 - <a href="https://tiktok.com/@darkbeameryt">TikTok</a>
 - <a href="https://instagram.com/darkbeameryt">Instagram</a>
+
+
+## Also, here's a joke for you.
+![Jokes Card](https://readme-jokes.vercel.app/api)
