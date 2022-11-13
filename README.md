@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/DarkBeamerYT/DarkBeamerYT/master/New Project 51 [777B75B].png" alt="Dark's Banner, lol">
 
-I am an average person who keeps making fucked up things. 
+I'm just a kid, so tf u expecting in my profile
 
 
 ## Stats Zone
