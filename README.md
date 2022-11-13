@@ -21,7 +21,7 @@ I'm just a kid, so tf u expecting in my profile
 ## Support me!
 TNG eWallet:
 
-<img src="https://raw.githubusercontent.com/DarkBeamerYT/DarkBeamerYT/master/donasi.jpg" width="1000px" alt="donasi la kntl">
+<img src="https://raw.githubusercontent.com/DarkBeamerYT/DarkBeamerYT/master/donasi.jpg" width="500px" alt="donasi la kntl">
 
 
 ## Also, here's a joke for you.
