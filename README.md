@@ -20,6 +20,7 @@ I'm just a kid, so tf u expecting in my profile
 
 ## Support me!
 TNG eWallet: 60197588090
+<img src="https://raw.githubusercontent.com/DarkBeamerYT/DarkBeamerYT/master/donasi.jpg" width="50px" alt="donasi la kntl">
 
 
 ## Also, here's a joke for you.
