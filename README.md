@@ -1,6 +1,6 @@
 # <img src="https://i.imgur.com/lsizgGl.gif" width="30px"> Hey there! I'm Dark.
 
-<img src="https://raw.githubusercontent.com/DarkBeamerYT/DarkBeamerYT/master/New Project 51 [777B75B].png" alt="Dark's Banner, lol">
+<img src="https://raw.githubusercontent.com/DarkBeamerYT/DarkBeamerYT/master/New Project 423 [9E7C362].png" alt="Dark's Banner, lol">
 
 I'm just a kid, so tf u expecting in my profile
 
