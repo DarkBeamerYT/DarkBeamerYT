@@ -18,5 +18,8 @@ I am an average person who keeps making fucked up things.
 - <a href="https://instagram.com/darkbeameryt">Instagram</a>
 
 
+## Support me!
+
+
 ## Also, here's a joke for you.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
