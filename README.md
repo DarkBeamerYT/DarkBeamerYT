@@ -24,5 +24,5 @@ TNG eWallet:
 <img src="https://raw.githubusercontent.com/DarkBeamerYT/DarkBeamerYT/master/donasi.jpg" width="425px" alt="donasi la kntl">
 
 
-## Also, here's a joke for you.
+## Take a joke.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
