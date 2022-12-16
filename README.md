@@ -8,7 +8,7 @@ I'm just a kid, so tf u expecting in my profile
 ## Stats Zone
 [![GitHub followers](https://img.shields.io/github/followers/DarkBeamerYT?style=social&label=Followers)](https://github.com/DarkBeamerYT?tab=followers) <p> <img src="https://komarev.com/ghpvc/?username=DarkBeamerYT&label=Profile%20views&color=0e75b6&style=flat" alt="DarkBeamerYT" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DarkBeamerYT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkBeamerYT&show_icons=true&theme=github_dark)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkBeamerYT&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
 
