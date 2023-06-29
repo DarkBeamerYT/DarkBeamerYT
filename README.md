@@ -20,12 +20,7 @@
 
 
 ## Support me!
-<details>
-    <summary> <b>TNG eWallet</b></summary><br/>
-  
-  <img src="https://raw.githubusercontent.com/DarkBeamerYT/DarkBeamerYT/master/donasi.jpg" width="425px" alt="donasi la kntl">
-  
-  </details>
+<img src="https://raw.githubusercontent.com/DarkBeamerYT/DarkBeamerYT/master/New Project 717 [58B21A9].png" width=475px alt="donate xd">
 
 
 ## Take a joke.
