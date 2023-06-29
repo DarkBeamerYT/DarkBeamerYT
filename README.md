@@ -2,20 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/DarkBeamerYT/DarkBeamerYT/master/New Project 423 [9E7C362].png" alt="Dark's Banner, lol">
 
-I'm just a kid, so tf u expecting in my profile
 
 
-## Stats Zone
-[![GitHub followers](https://img.shields.io/github/followers/DarkBeamerYT?style=social&label=Followers)](https://github.com/DarkBeamerYT?tab=followers) <p> <img src="https://komarev.com/ghpvc/?username=DarkBeamerYT&label=Profile%20views&color=0e75b6&style=flat" alt="DarkBeamerYT" /> </p>
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-      
+## Stats Zone     
 ![Dark's GitHub stats](https://github-readme-stats-darkbeameryt.vercel.app/api?username=DarkBeamerYT&show_icons=true&theme=github_dark)
 
-![Metrics](https://metrics.lecoq.io/DarkBeamerYT?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKuching)
-
-</details> 
+![Metrics](https://metrics.lecoq.io/DarkBeamerYT?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKuching) 
 
 
 ## Currently listening (on Spotify) to :
