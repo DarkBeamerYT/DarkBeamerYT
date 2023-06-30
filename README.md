@@ -20,7 +20,7 @@
 
 
 ## Support me!
-<img src="https://raw.githubusercontent.com/DarkBeamerYT/DarkBeamerYT/master/New Project 717 [58B21A9].png" width=475px alt="donate xd">
+<img src="https://raw.githubusercontent.com/DarkBeamerYT/DarkBeamerYT/master/New Project 717 [58B21A9].png" alt="donate xd">
 
 
 ## Take a joke.
