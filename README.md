@@ -1,6 +1,8 @@
 ## <img src="https://i.imgur.com/lsizgGl.gif" width="30px"> Hey there! I'm Dark.
 <img src="https://raw.githubusercontent.com/DarkBeamerYT/DarkBeamerYT/master/New Project 721 [8981211].png" alt="Dark's Banner, lol">
 
+I'm just a kid that likes messing around with code.
+Newbie python user
 
 
 ## Stats Zone     
