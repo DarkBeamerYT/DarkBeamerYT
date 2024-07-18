@@ -13,6 +13,7 @@ Newbie python user
 
 ## Currently listening (on Spotify) to :
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wuwujxl53lcn6dx9o5j6a46kt&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+(https://spotify-github-profile.vercel.app/api/view?uid=98azxk2om2hmpn49t3mpl3gfp&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Find me on:
 - <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/youtube-play.png" alt="youtube-play"/> <a href="https://youtube.com/c/DarkBeamerYT">YouTube</a>
