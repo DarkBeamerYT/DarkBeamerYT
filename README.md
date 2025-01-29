@@ -9,7 +9,7 @@ I'm just a kid that likes messing around with Python.
 
 
 ## Currently listening (on Spotify) to :
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wuwujxl531cn6dx9o5j6a46kt&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wuwujxl53lcn6dx9o5j6a46kt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Find me on:
 - <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/youtube-play.png" alt="youtube-play"/> <a href="https://youtube.com/c/DarkBeamerYT">YouTube</a>
