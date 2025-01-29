@@ -7,11 +7,9 @@ I'm just a kid that likes messing around with Python.
 ## Stats Zone     
 ![Dark's GitHub stats](https://github-readme-stats-darkbeameryt.vercel.app/api?username=DarkBeamerYT&show_icons=true&theme=github_dark)
 
-![Metrics](https://metrics.lecoq.io/DarkBeamerYT?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKuching) 
-
 
 ## Currently listening (on Spotify) to :
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=98azxk2om2hmpn49t3mpl3gfp&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wuwujxl531cn6dx9o5j6a46kt&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Find me on:
 - <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/youtube-play.png" alt="youtube-play"/> <a href="https://youtube.com/c/DarkBeamerYT">YouTube</a>
