@@ -14,8 +14,8 @@ I'm just a kid that likes messing around with Python.
 ## Find me on:
 - <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/youtube-play.png" alt="youtube-play"/> <a href="https://youtube.com/c/DarkBeamerYT">YouTube</a>
 - <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/twitter-squared.png" alt="twitter-squared"/> <a href="https://twitter.com/DarkBeamerYT">Twitter</a>
-- <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/000000/tiktok.png" alt="tiktok"/> <a href="https://tiktok.com/@darkbeameryt">TikTok</a>
-- <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/instagram-new.png" alt="instagram-new"/> <a href="https://instagram.com/darkbeameryt">Instagram</a>
+- <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/000000/tiktok.png" alt="tiktok"/> <a href="https://tiktok.com/@darkk.m4a">TikTok</a>
+
 
 
 ## Support me!
