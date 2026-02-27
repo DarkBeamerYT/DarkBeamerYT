@@ -8,7 +8,7 @@
 
 **[→ dbyt.my.id](https://dbyt.my.id)**
 
-![Visitor Count]([https://visitcount.itsvg.in/api?id=DarkBeamerYT&label=Profile%20Views&color=1&icon=5&pretty=false](https://komarev.com/ghpvc/?username=DarkBeamerYT&color=58A6FF&style=flat&label=Profile+Views))
+![Profile Views](https://komarev.com/ghpvc/?username=DarkBeamerYT&color=58A6FF&style=flat&label=Profile+Views)
 
 </div>
 
