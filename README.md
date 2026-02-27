@@ -24,23 +24,25 @@ My work spans three disciplines I believe are deeply connected — **photography
 
 ---
 
-## ⚙️ Tools & Skills
-
-**Creative**
-
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
-![Alight Motion](https://img.shields.io/badge/Alight%20Motion-FF6B6B?style=flat-square&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logoColor=white)
-
-**Technical**
+## ⚙️ My Coding Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-5555FF?style=flat-square&logoColor=white)
-![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Discord Bots](https://img.shields.io/badge/Discord%20Bots-5865F2?style=flat-square&logo=discord&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepad%2B%2B&logoColor=black)
+![Adobe Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6?style=flat-square&logo=adobe-dreamweaver&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 ---
 
