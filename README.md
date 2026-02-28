@@ -66,6 +66,8 @@ My work spans three disciplines I believe are deeply connected — **photography
 
 **[dbyt.my.id](https://dbyt.my.id)** — Designed and built my personal portfolio from scratch, handling theme, layout, content structure, and visual direction.
 
+**[Songfess](https://github.com/DarkBeamerYT/songfess)** — Designed and built a full-stack anonymous music confession platform from scratch. Features Spotify song search, iTunes 30s previews, MySQL database, and a dark astronomical UI. Built with Node.js, Express, and vanilla HTML/CSS/JS.
+
 **Bot Hosting & Deployment** — Self-hosted and managed multiple bots across Telegram, Discord, and WhatsApp.
 
 **Minecraft Server Hosting** — Deployed and managed servers via Pterodactyl Panel, handling resource allocation and uptime.
